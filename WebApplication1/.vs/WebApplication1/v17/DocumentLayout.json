@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\blazorapp1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\blazorapp1\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\blazorapp1\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\blazorapp1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\blazorapp1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72959601-8D1E-4591-A1F6-C8C04BC04419}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\webapplication1\\controllers\\governmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\governmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\webapplication1\\contr\\gover\\govermentother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contr\\gover\\govermentother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\webapplication1\\contr\\gover\\govermentadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contr\\gover\\govermentadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\source\\repos\\mapp\\aaaa\\webapplication1\\webapplication1\\models\\government.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B162AD78-F17B-436F-B20A-4C20FF8E5EEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\government.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +38,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorApp1\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T12:37:27.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp1\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T12:37:20.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.razor",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\Pages\\index.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\index.razor",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\Pages\\index.razor",
+              "RelativeToolTip": "BlazorApp1\\Pages\\index.razor",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAqwE0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T12:31:55.718Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BlazorApp1\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BlazorApp1\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAFQAAAAAZGZmZmYFwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T12:28:42.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorApp1\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\BlazorApp1\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorApp1\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-26T12:21:43.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AQIAAAkAAACAmZmZmZktwBoAAAA1AAAA",
+              "ViewState": "AQIAAAkAAACAmZmZmZktwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T03:52:51.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -64,54 +133,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-26T03:34:37.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GovermentOther.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Contr\\Gover\\GovermentOther.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Contr\\Gover\\GovermentOther.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Contr\\Gover\\GovermentOther.cs",
-              "RelativeToolTip": "WebApplication1\\Contr\\Gover\\GovermentOther.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T10:27:17.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Government.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Models\\Government.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Government.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Models\\Government.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Government.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T10:11:22.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GovernmentController.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Controllers\\GovernmentController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\GovernmentController.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Controllers\\GovernmentController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\GovernmentController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAATwDwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:27:13.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GovermentAdd.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Contr\\Gover\\GovermentAdd.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Contr\\Gover\\GovermentAdd.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Mapp\\AAAA\\WebApplication1\\WebApplication1\\Contr\\Gover\\GovermentAdd.cs",
-              "RelativeToolTip": "WebApplication1\\Contr\\Gover\\GovermentAdd.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T09:50:52.594Z"
             }
           ]
         },

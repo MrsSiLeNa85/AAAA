@@ -30,8 +30,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1/source/repos/Mapp/AAAA/WebApplication1/BlazorApp1/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+[C:/Users/1/source/repos/Mapp/AAAA/WebApplication1/BlazorApp1/Pages/index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/1/source/repos/Mapp/AAAA/WebApplication1/BlazorApp1/Pages/Weather.razor]
